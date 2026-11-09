@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:pkalakoti.github.io",
+  "assertionMethod": [
+    {
+      "id": "did:web:pkalakoti.github.io#fce02ed1f7a2e5b5528ae669891eb5ca76d1931a702a92de9a7a6932f2566764",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:pkalakoti.github.io",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "UDzaXJH3Vx-jjDGy-32yxkArpa2CUdWbETvKunIKnqo=",
+        "y": "ie23RqfohVmSCHOhLsjcSW-9_VHlHiFmM2Fx9CAtNzI=",
+        "kid": "fce02ed1f7a2e5b5528ae669891eb5ca76d1931a702a92de9a7a6932f2566764",
+        "alg": "ES256"
+      }
+    }
+  ]
+}
