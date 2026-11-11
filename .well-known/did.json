@@ -6,15 +6,15 @@
   "id": "did:web:pkalakoti.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:pkalakoti.github.io#fce02ed1f7a2e5b5528ae669891eb5ca76d1931a702a92de9a7a6932f2566764",
+      "id": "did:web:pkalakoti.github.io#18308a0137af873604c626ea0d9c80ccbe66fd8603ad6a24bdfd63252602ca5b",
       "type": "JsonWebKey2020",
       "controller": "did:web:pkalakoti.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "UDzaXJH3Vx-jjDGy-32yxkArpa2CUdWbETvKunIKnqo=",
-        "y": "ie23RqfohVmSCHOhLsjcSW-9_VHlHiFmM2Fx9CAtNzI=",
-        "kid": "fce02ed1f7a2e5b5528ae669891eb5ca76d1931a702a92de9a7a6932f2566764",
+        "x": "pg_gqVU456rQuBnHOqTL8haslGi_R81qZnZsOp11xF0=",
+        "y": "3mSBU06ZGy33dZztzWL_NNfbgb9_7tI6W1GxlYYwWBg=",
+        "kid": "18308a0137af873604c626ea0d9c80ccbe66fd8603ad6a24bdfd63252602ca5b",
         "alg": "ES256"
       }
     }
